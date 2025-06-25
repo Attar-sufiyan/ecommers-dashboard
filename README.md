@@ -1,4 +1,4 @@
-📊 E-commerce Sales Dashboard (Power BI)
+##📊 E-commerce Sales Dashboard (Power BI)
 This Power BI project presents a comprehensive E-commerce Sales Dashboard that visualizes key performance metrics for an online store. It is designed to help understand sales trends, customer behavior, and regional performance through interactive visual reports.
 
 🧾 Project Overview
